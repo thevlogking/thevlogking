@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/thevlogking">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=BCA+Student;Aspiring+Software+Developer;Learning+by+Building+Projects;Open+to+Internships+and+Collaboration" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Learning+by+Building+Projects;Open+to+Internships+and+Collaboration" />
   </a>
 </p>
 
@@ -91,7 +91,7 @@ Currently, I am focused on **learning by building real projects**, strengthening
 ## 🤝 Let’s Connect  
 
 - 🌐 GitHub: https://github.com/thevlogking  
-- 📁 Portfolio: *Coming soon*  
+- 📁 Portfolio: https://aboutsayantan.netlify.app
 
 ---
 

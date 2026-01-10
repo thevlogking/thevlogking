@@ -38,6 +38,14 @@ Currently, I am focused on **learning by building real projects**, strengthening
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
 </p>
 
+### 🚀 MERN Stack  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
+</p>
+
 ### 🗄️ Database  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="65" />
@@ -48,15 +56,15 @@ Currently, I am focused on **learning by building real projects**, strengthening
 ## 📚 Currently Learning  
 
 - Advanced JavaScript concepts  
-- Backend development fundamentals  
-- MySQL query optimization & database design  
+- MERN stack development  
+- Backend architecture & MySQL optimization  
 
 ---
 
 ## 🚀 Projects  
 
 - 📌 Academic projects built during BCA  
-- 📌 Portfolio projects focused on web development & databases  
+- 📌 Portfolio projects focused on web development & MERN stack  
 - 📌 Hands-on practice projects to strengthen backend logic  
 
 ➡️ *More projects coming soon as I continue to grow and learn.*
@@ -84,14 +92,23 @@ Currently, I am focused on **learning by building real projects**, strengthening
 - Secure a **software development internship**  
 - Gain real-world experience through collaborative projects  
 - Build scalable and maintainable applications  
-- Grow into a skilled full-stack developer  
+- Grow into a skilled **full-stack developer**  
 
 ---
 
-## 🤝 Let’s Connect  
+## 🌐 Connect & Resume  
 
-- 🌐 GitHub: https://github.com/thevlogking  
-- 📁 Portfolio: https://aboutsayantan.netlify.app
+<p align="center">
+  <a href="https://drive.google.com/file/d/1QBv3Fs1IaNjNsppFfyr-gObZoINguc55/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/thevlogking/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://aboutsayantan.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-1abc9c?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 

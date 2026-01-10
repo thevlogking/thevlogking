@@ -30,6 +30,7 @@ Currently, I am focused on **learning by building real projects**, strengthening
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 </p>
 
 ### 🌐 Web Development  
@@ -38,17 +39,10 @@ Currently, I am focused on **learning by building real projects**, strengthening
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
 </p>
 
-### 🚀 MERN Stack  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
-</p>
-
 ### 🗄️ Database  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
 </p>
 
 ---
@@ -56,16 +50,16 @@ Currently, I am focused on **learning by building real projects**, strengthening
 ## 📚 Currently Learning  
 
 - Advanced JavaScript concepts  
-- MERN stack development  
-- Backend architecture & MySQL optimization  
+- Backend development fundamentals  
+- Database optimization & schema design  
 
 ---
 
 ## 🚀 Projects  
 
 - 📌 Academic projects built during BCA  
-- 📌 Portfolio projects focused on web development & MERN stack  
-- 📌 Hands-on practice projects to strengthen backend logic  
+- 📌 Portfolio projects focused on web development & backend logic  
+- 📌 Hands-on practice projects using MySQL & MongoDB  
 
 ➡️ *More projects coming soon as I continue to grow and learn.*
 

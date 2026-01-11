@@ -71,8 +71,8 @@ Currently, I am focused on **learning by building real projects**, strengthening
 
 ## 🎯 Career Goals  
 
-- Secure a **software development internship**  
-- Gain real-world experience through collaborative projects  
+- Secure a **software development job**  
+- Gain real-world experience through **collaborative projects**  
 - Build scalable and maintainable applications  
 - Grow into a skilled **full-stack developer**  
 

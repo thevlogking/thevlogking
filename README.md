@@ -69,22 +69,6 @@ Currently, I am focused on **learning by building real projects**, strengthening
 
 ---
 
-## 📊 GitHub Statistics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thevlogking&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thevlogking&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevlogking&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
----
-
 ## 🎯 Career Goals  
 
 - Secure a **software development internship**  
